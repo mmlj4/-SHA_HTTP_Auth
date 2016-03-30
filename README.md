@@ -1,7 +1,7 @@
 -SHA_HTTP_Auth
 ==============
 
-Mod_Perl HTTP Authentication module using salted SHA2
+mod_perl HTTP Authentication module using salted SHA2
 
 This module is mostly cobbled together from example code and adapted to provide salted SHA
 (or any arbitrary hash and salt scheme the programmer wishes) for HTTP AUthentication.
