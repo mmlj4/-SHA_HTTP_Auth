@@ -13,7 +13,7 @@ but since every page load, every image, etc. requires a database hit,
 speed becomes a deciding factor at some point. You may want to investigage caching options.
 YMMV.
 
-In order to make this work, you need to be running Apache and Mod_Perl2.
+In order to make this work, you need to be running Apache and mod_perl2.
 This module needs to be in site_perl, vendor_perl or some other directory in your path.
 You can invoke the module via a stanza in httpd.conf, details of which are shown in the module itself.
 
