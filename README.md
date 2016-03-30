@@ -4,7 +4,7 @@
 mod_perl HTTP Authentication module using salted SHA2
 
 This module is mostly cobbled together from example code and adapted to provide salted SHA
-(or any arbitrary hash and salt scheme the programmer wishes) for HTTP AUthentication.
+(or any arbitrary hash and salt scheme the programmer wishes) for HTTP Authentication.
 I could not find anything on the web that allowed the use of salted hashes,
 so I wrote something that did what I wanted.
 
